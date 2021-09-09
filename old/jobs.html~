@@ -1,0 +1,241 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+  <title>Megan L. Jones</title>
+  <meta name="description" content="website description" />
+  <meta name="keywords" content="website keywords, website keywords" />
+  <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+  <link rel="stylesheet" type="text/css" href="css/style.css" />
+  <!-- modernizr enables HTML5 elements and feature detects -->
+  <script type="text/javascript" src="js/modernizr-1.5.min.js"></script>
+</head>
+
+<body>
+  <div id="main">
+    <header>
+      <div id="logo">
+        <div id="logo_text">
+          <!-- class="logo_colour", allows you to change the colour of the text -->
+          <h1><a href="index.html">Megan L. Jones</a></h1>
+          <h2 style="color: #99001C;">Postdoctoral Researcher at West Virginia University</h2>
+        </div>
+      </div>
+      <nav>
+        <ul class="sf-menu" id="nav">
+          <li><a href="index.html">Home</a></li>
+<!--          <li><a href="about.html">About Me</a></li> -->
+ <!--         <li><a href="research.html">My Research</a></li> -->
+<!--          <li><a href="publications.html">Publications</a></li>-->
+          <li><a href="MeganJonesCV.pdf">CV</a></li>
+<!--	  <li><a href="outreach.html">Outreach</a></li> -->
+<!--          <li><a href="#">Example Drop Down</a>
+            <ul>
+              <li><a href="#">Drop Down One</a></li>
+              <li><a href="#">Drop Down Two</a>
+                <ul>
+                  <li><a href="#">Sub Drop Down One</a></li>
+                  <li><a href="#">Sub Drop Down Two</a></li>
+                  <li><a href="#">Sub Drop Down Three</a></li>
+                  <li><a href="#">Sub Drop Down Four</a></li>
+                  <li><a href="#">Sub Drop Down Five</a></li>
+                </ul>
+              </li>
+              <li><a href="#">Drop Down Three</a></li>
+              <li><a href="#">Drop Down Four</a></li>
+              <li><a href="#">Drop Down Five</a></li>
+            </ul>
+          </li>	-->
+          <li><a href="contact.html">Contact Me</a></li>
+        </ul>
+      </nav>
+    </header>
+
+
+
+<!-- BEGIN PAGE CONTENT -->
+
+<p><font size="3">
+
+
+My previous/current research statement will be similar for all applications, a draft can be seen <a href="https://v2.overleaf.com/read/nkrnbhqxmttj">here</a>.</font>
+</p>
+
+	<p> <table style="width:100%">
+  <tr>
+    <th><font size="3">Postdoc</font></th>
+    <th><font size="3">Deadline</font></th> 
+    <th><font size="3">Letter</font></th> 
+    <th><font size="3">Notes</font></th> 
+    <th><font size="2">Research proposal</font></th> 
+  </tr>
+  <tr>
+<!--     <td><a href="https://jobregister.aas.org/ad/2bd1f658">CfA/Clay Postdoctoral Fellowship </td>
+    <td>Oct 30 </td>
+    <td> Will contact </td>
+    <td> Applying to work with MSPs in X-ray and SMBHs in radio in their Extreme Astrophysics group.</td>
+  </tr>!-->
+<!--  <tr>
+    <td><a href="https://moreheadstate.peopleadmin.com/postings/8069">Morehead State University</td>
+    <td>Oct 30</td>
+    <td>Will contact</td>
+    <td> </td>
+  </tr> !-->
+  <tr>
+<!--      <td><a href="https://jobregister.aas.org/ad/d3c9dc0d">American Museum of Natural History </td>
+    <td>Nov 1  </td>
+    <td>Email to <a href="mailto:mfrisch@amnh.org"> mfrisch@amnh.org </td>
+    <td><font size="2">Fellowship is 75% research, 25% education. The research portion is related to "structure of the interstellar medium".</font> </td>
+  </tr>!-->
+ <!-- <tr>
+    <td><a href="https://catcopy.ipac.caltech.edu/nhfp/application.php">NASA Hubble Fellowship Program </td>
+    <td>Nov 1 </td>
+    <td>Submit <a href="https://catcopy.ipac.caltech.edu/nhfp/letter.php">here</td>
+    <td> </td>
+  </tr>
+  <tr>
+    <td><a href="https://jobregister.aas.org/ad/4baadcd3">NASA Postdoctoral Program </td>
+    <td>Nov 1 </td>
+    <td>Will contact</td>
+    <td>Applying to work with Joe Lazio on science with next generation radio arrays. </td>
+  </tr>
+  <tr>
+    <td><a href="https://jobregister.aas.org/ad/26fa3172">Jansky Fellowship</td>
+    <td>Nov 1 </td>
+    <td>Email to <a href="mailto:Jansky2019@nrao.edu">Jansky2019@nrao.edu </td>
+    <td><font size="2">Applying to work on ISM effects with Jim & Shami at Cornell!</font></td>
+  </tr>!-->
+  <!--<tr>
+    <td><a href="https://jobregister.aas.org/ad/d42c9588">Space Telescope Prize Research Fellowships </td>
+    <td>Nov 5  </td>
+    <td>Will contact </td>
+    <td>Letter is due the 19th </td>
+    <td> <a href="https://v2.overleaf.com/read/nkrnbhqxmttj">proposal</a></td>
+  </tr>
+  <tr>
+     <td><a href="https://jobregister.aas.org/ad/93e879a4">Postdoctoral Positions in the Department of Astrophysical Sciences, Princeton University </td>
+    <td>Nov 5</td>
+    <td>Will contact  </td>
+    <td> </td>!-->
+
+  </tr>
+<!--   <td><a href="https://careers.aps.org/jobs/11559195/provost-fellowship-in-astronomy-astrophysics">Provost Fellowship in Astronomy & Astrophysics
+ </td>
+    <td>Nov 29 </td>
+    <td>Will contact </td>
+    <td> </td>
+  </tr>!-->
+<!--     <td><a href="https://jobregister.aas.org/ad/e6ad5f01">Dunlap Postdoctoral Fellowships in Astronomy and Astrophysics </td>
+    <td> Nov 30 </td>
+    <td>Send to <a href="mailto:fellowships@dunlap.utoronto.ca">fellowships@dunlap.utoronto.ca </td>
+    <td> </td>
+  </tr>
+ <!--    <td><a href="https://jobregister.aas.org/ad/24e02cdb">Postdoctoral Fellowships in Astrophysics at McGill University
+ </td>
+    <td> Nov 30 </td>
+    <td>Will contact </td>
+    <td> </td>
+  </tr>
+  <tr>
+    <td><a href="https://jobregister.aas.org/ad/92c91724">Postdoctoral position in Pulsar and FRB Astrophysics, University of British Columbia </td>
+    <td> Dec 1  </td>
+    <td> Send to Ingrid Stairs at <a href="mailto:stairs@astro.ubc.ca">stairs@astro.ubc.ca </td>
+    <td> </td>
+  </tr>-->
+ <!-- <tr>
+    <td><a href="https://jobregister.aas.org/ad/db0dce00">Postdoctoral positions in astrophysics </td>
+    <td> Dec 1  </td>
+    <td>  </td>
+    <td> </td>
+  </tr>
+  <tr>
+    <td><a href="https://jobregister.aas.org/ad/0dd9012a">CIERA Postdoctoral Fellowship Positions in Astronomy & Astrophysics </td>
+    <td>Dec 1 </td>
+    <td>Will contact </td>
+    <td> </td>
+  </tr>
+  <tr>
+    <td><a href="https://jobregister.aas.org/ad/af9ce3c0">Time-Domain & Multi-messenger Astrophysics Postdoctoral Positions </td>
+    <td>Dec 1 </td>
+    <td>Will contact </td>
+    <td> </td>
+  </tr>
+ <tr>
+    <td><a href="https://jobregister.aas.org/ad/bfa0a748">Postdoctoral Research Positions in Time-Domain Astrophysics </td>
+    <td>Dec 3 </td>
+    <td> Send to Edo Berger at <a href="mailto:eberger@cfa.harvard.edu">eberger@cfa.harvard.edu </td>
+    <td> </td>
+  </tr>
+ <tr>
+    <td><a href="https://recruiting2.ultipro.com/SPA1004AURA/JobBoard/93330e50-7b3a-4ba8-94f2-6f32360aa4e1/OpportunityDetail?opportunityId=41603c9a-0cfa-4c16-a042-13ba15ddb66f">Postdoctoral - Interstellar Medium Studies of External Galaxies </td>
+    <td>Dec 14 </td>
+    <td> </td>
+    <td> </td>
+  </tr>
+  <tr>
+     <td><a href="https://www.iau.org/science/grants_prizes/phd_prize/">IAU PhD Prize to Recognise Excellence in Astrophysics </td>
+    <td>Dec 15 </td>
+    <td> Will contact after I submit today (Monday, Dec 10)</td>
+    <td> </td>
+  </tr>
+  <tr>
+     <td><a href="https://jobregister.aas.org/ad/15ed2316">Neil Gehrels Prize Postdoctoral Position -- Joint Space-Science Institute</td>
+    <td>Dec 15 </td>
+    <td> Through AcademicJobs, new letter not needed</td>
+    <td> </td>
+  </tr>
+     <td><a href="https://jobregister.aas.org/ad/03081b6f">Postdoctoral Position in Multi-wavelength Supernova, Gravitational-Wave, and Time-Domain Research</td>
+    <td>Dec 31 </td>
+    <td> </td>
+    <td> </td>
+  </tr
+  <tr>
+     <td><a href="https://jobregister.aas.org/ad/d6d59f07">Postdoctoral Fellow in high-energy Astrophysics</td>
+    <td>Jan 1 </td>
+    <td> </td>
+    <td> </td>
+  </tr>>-->
+  <tr>
+     <td><a href="https://jobregister.aas.org/ad/7c6e8820">Postdoctoral Positions in the CGCA</td>
+    <td>Jan 15 </td>
+    <td>Email to <a href="mailto:cgca-postdoc-applications@uwm.edu">cgca-postdoc-applications@uwm.edu </td>
+    <td> </td>
+  </tr>
+    <td><a href="https://jobregister.aas.org/ad/f09c922e">Postdoctoral Position in Radio Transients
+</td>
+    <td>Jan 15 </td>
+    <td>Email to <a href="mailto:cgca-postdoc-applications@uwm.edu">cgca-postdoc-applications@uwm.edu</a>, with "Radio Postdoc" as the subject line </td>
+    <td> </td>
+  </tr>
+     <td><a href="https://jobregister.aas.org/ad/4f5a73ab">Astronomy Teaching Post-Doc at Swarthmore</td>
+    <td>Jan 18 </td>
+    <td>Will contact </td>
+    <td> </td>
+  </tr>
+     <td><a href="https://jobregister.aas.org/ad/1b92f57d">Pulsars and Fast Transients - Curtin Institute of Radio Astronomy (CIRA)</td>
+    <td>Feb 8 </td>
+    <td> </td>
+    <td> </td>
+  </tr> 
+
+</table> </p>
+	
+      </div>
+
+
+
+
+  </div>
+  <p>&nbsp;</p>
+  <!-- javascript at the bottom for fast page loading -->
+  <script type="text/javascript" src="js/jquery.js"></script>
+  <script type="text/javascript" src="js/jquery.easing-sooper.js"></script>
+  <script type="text/javascript" src="js/jquery.sooperfish.js"></script>
+  <script type="text/javascript" src="js/image_fade.js"></script>
+  <script type="text/javascript">
+    $(document).ready(function() {
+      $('ul.sf-menu').sooperfish();
+    });
+  </script>
+</body>
+</html>

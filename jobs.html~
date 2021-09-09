@@ -3,7 +3,7 @@
     <head>  
       <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
       <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0"/>
-      <title>Megan L. Jones: Jobs</title>
+      <title>Megan L. Jones: Contact</title>
 
        <!-- CSS  -->      
       <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection"/>
@@ -16,7 +16,7 @@
       <!-- Default Theme CSS File-->
       <link id="switcher" href="css/themes/dark-theme.css" type="text/css" rel="stylesheet" media="screen,projection"/>     
       <!-- Main css File -->
-      <link href="css/style.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+      <link href="style.css" type="text/css" rel="stylesheet" media="screen,projection"/>
 
       <!-- Font -->
       <link href="http://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
@@ -88,14 +88,15 @@
   </tr>
 
   <tr>
-     	<td><a href="https://jobregister.aas.org/ad/8d723f4c">NASA Hubble Fellowship Program (NHFP)</td>
-    	<td>Nov 1 </td>
-    	<td>Email to <a href="mailto:"> </td>
+     	<td><a href="https://jobregister.aas.org/ad/7c6e8820">Postdoctoral Positions in the CGCA</td>
+    	<td>Jan 15 </td>
+    	<td>Email to <a href="mailto:cgca-postdoc-applications@uwm.edu">cgca-postdoc-applications@uwm.edu </td>
     	<td> </td>
   </tr>
-    	<td><a href="https://jobregister.aas.org/ad/d39d4080">CIERA Postdoctoral Fellowship Positions in Astronomy & Astrophysics</td>
-	<td>Nov 24 </td>
-    	<td>Email to <a href="mailto:"></a> </td>
+    	<td><a href="https://jobregister.aas.org/ad/f09c922e">Postdoctoral Position in Radio Transients
+	</td>
+	<td>Jan 15 </td>
+    	<td>Email to <a href="mailto:cgca-postdoc-applications@uwm.edu">cgca-postdoc-applications@uwm.edu</a>, with "Radio Postdoc" as the subject line </td>
     	<td> </td>
   </tr>
      	<td><a href="https://jobregister.aas.org/ad/4f5a73ab">Astronomy Teaching Post-Doc at Swarthmore</td>
